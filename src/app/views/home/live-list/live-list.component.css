@@ -3,3 +3,9 @@
   padding-left: 2%;
   padding-right: 2%;
 }
+.mat-tab div {
+  padding: 2%;
+}
+.mat-tab div div {
+  margin: 0.5%;
+}
